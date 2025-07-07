@@ -46,7 +46,7 @@ export class Home extends Component {
           >
             <img
               id="tweet-svg"
-              src="../../../public/Icons/twitter-brands.svg"
+              src="/Icons/twitter-brands.svg"
               alt="twitter"
             />
           </a>
