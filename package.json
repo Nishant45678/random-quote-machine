@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Nishant45678.github.io/freeCodeCamp",
+  "homepage": "https://Nishant45678.github.io/random-quote-machine",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
